@@ -31,7 +31,7 @@ public class ArrayMinIndex {
 		}
 		
 		Min(mas);
-		System.out.println("\nОтлично");
+		System.out.println("\nНаконец-то!");
 
 	}
 
